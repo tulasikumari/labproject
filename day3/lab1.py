@@ -1,4 +1,4 @@
-#check wether 5 is in the list of first 5 numbers or not.
+#check weather 5 is in the list of first 5 numbers or not.
 # list =>[1,2,3,4,5] 
 a=int(input("enter the first number"))
 b=int(input("enter the second number"))
