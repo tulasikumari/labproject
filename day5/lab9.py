@@ -8,5 +8,5 @@ elif num ==0:
 else:
     for x in range(1,num +1):
         factorial = x*factorial
-    print(f"factorial of{num} is {factorial}")
+        print(f"factorial of{num} is {factorial}")
 
