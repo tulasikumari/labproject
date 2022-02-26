@@ -1,3 +1,3 @@
-# program to clone or copy a list. 
-list1=['a','s','d']
-list2=list. random (list1)
+import random
+color_list = ['Red', 'Blue', 'Green', 'White', 'Black']
+print(random.choice(color_list))

@@ -1,4 +1,4 @@
-# sum of first 10 even numbers
+  # sum of first 10 even numbers
 numbers=range(1,11)
 sumA=0
 for i in numbers:
